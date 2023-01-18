@@ -25,7 +25,7 @@ else:
 ```
 
 
-## **Densidade da Palavra-Chave**
+## **Densidade de Palavra-Chave**
 Aqui selecionamos o elemento **article**, pegamos o texto dentro desse elemento e contamos a quantidade de palavras e a quantidade de vezes que a palavra-chave possue na página. Então calculamos a densidade da palavra-chave com base no total de palavras dentro do elemento e imprime a densidade na tela.
 
 ```
