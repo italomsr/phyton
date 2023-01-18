@@ -53,7 +53,7 @@ else:
 ```
 
 ## **Links nofollow** 
-Aqui verificamos a quantidade de URLs que possui a página e listamos os links que possuem o artributo `rel="nofollow"`
+Aqui verificamos a quantidade de URLs que possui a página e listamos os links que possuem o atributo `rel="nofollow"`
 
 ```
 from bs4 import BeautifulSoup
